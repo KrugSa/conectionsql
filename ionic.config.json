@@ -1,0 +1,7 @@
+{
+  "name": "conectionsql",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
