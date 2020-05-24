@@ -1,5 +1,5 @@
 # conectionsql
-Ionic conection with sqlite
+# Ionic conection with sqlite
 
 #Dependencias necesarias para el funcionamiento de la aplicación
 #que deben ser instaladas meediante linea de comando en el interior del proyecto.
@@ -13,7 +13,7 @@ Ionic conection with sqlite
 #ionic cordova plugin add cordova-sqlite-storage
 #ionic cordova plugin add uk.co.workingedge.cordova.plugin.sqliteporter
 
-#Crear el see.sql
+# Crear el see.sql
 #CREATE TABLE IF NOT EXISTS developer(id INTEGER PRIMARY KEY AUTOINCREMENT,name TEXT,skills TEXT,img TEXT);
 #INSERT or IGNORE INTO developer VALUES (1, 'Simon', '', 'https://pbs.twimg.com/profile_images/858987821394210817/oMccbXv6_bigger.jpg');
 #INSERT or IGNORE INTO developer VALUES (2, 'Max', '', 'https://pbs.twimg.com/profile_images/953978653624455170/j91_AYfd_400x400.jpg');
@@ -29,4 +29,4 @@ Ionic conection with sqlite
 
 
 #Insertar servicios en App.module
-# Creras las paginas Html y .ts en conjutno con los servicios para la utilización del SQL 
+#Creras las paginas Html y .ts en conjutno con los servicios para la utilización del SQL 
